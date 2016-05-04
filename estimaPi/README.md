@@ -1,4 +1,4 @@
-#Estama Pi
+#Estima Pi
 
 Esse diretório contém 4 códigos para estimar o valor de Pi utilizando o método de monte carlo. O primeiro deles, a forma serial convencional.
 Os outros três, estimam o valor de pi utilizando a API MPI (Message-Passing Interface) habilitando o processamento
